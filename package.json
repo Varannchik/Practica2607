@@ -1,0 +1,11 @@
+{
+  "name": "node2607",
+  "version": "1.0.0",
+  "description": "26.07.19",
+  "main": "index.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}
